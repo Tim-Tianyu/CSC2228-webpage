@@ -8,7 +8,7 @@ Rachel Phinnemore, Yufei Kang, Tianyu Wang
 <table>
   <thead>
     <tr>
-      <th style="text-align: center" width=190px>Date</th>
+      <th style="text-align: center" width=200px>Date</th>
       <th style="text-align: center">Milestone</th>
     </tr>
   </thead>
