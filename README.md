@@ -6,6 +6,7 @@ Rachel, Tianyu, Yufei
 
 ## Timeline
 | Milestones | Date |
+
 |--|--|
 | Proposal | Feb 02 |
 | Progress report | Mar 03 |
