@@ -5,32 +5,6 @@ breif description 0.0
 Rachel Phinnemore, Yufei Kang, Tianyu Wang
 
 ## Timeline
-
-
-
-
-
-
-Begin outline for paper 
-Week 5-7: Mar 2nd - Mar 16th
-Experiment running
-
-Get feedback from TA on paper outline
-
-Writing Paper 
-Week 7-8: Mar 17th - Mar 31th
-Prepare presentation
-
-Get feedback from TA on presentation outline 
-
-Polish paper
-Week 9: Apr 1st - Apr 7th
-Polish presentation
-
-Do practice presentation dry run 
-Week 10: Apr 7th - April 16th
-Submit final report
-
 <table>
   <thead>
     <tr>
