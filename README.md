@@ -41,7 +41,7 @@ Rachel Phinnemore, Yufei Kang, Tianyu Wang
     <tr>
       <td> Week 5-7: Mar 2nd - Mar 16th </td>
       <td> 
-        Experiment running <br/>
+        Experiment running <br/><br/>
         Get feedback from TA on paper outline <br/><br/>
         Writing Paper 
       </td>
