@@ -6,9 +6,9 @@ Federated Learning (FL) offers the benefits of machine learning without compromi
 
 ## Project goals
 * Baseline Goals
-- to be edited
+  * to be edited
 * Reach Goals
-- to be edited
+  * to be edited
 
 ## Timeline
 <table>
