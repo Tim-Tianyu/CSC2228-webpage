@@ -5,40 +5,29 @@ breif description 0.0
 Rachel, Tianyu, Yufei
 
 ## Timeline
-| Milestones | Date |
-|--|--|
-| Proposal | Feb 02 
-| Progress report | Mar 03 
-| Class presentation | Apr 07 
-| Final report | Apr 16 
-
-## adasdas
-| Flag | Code | Region |
-| :-------------: | :-------------: | ------------- |
-| 1 | CAF | Africa
-| 2 | CAS | Asia
-| 3 | CNA | North America
-| 4 | COC | Oceania
-| 5 | CSA | South America
-| 6 | EU | European Union
-| 7 | WW | World
-| 8 | LGBT | Pride
-
-## test
-| A simple | table |
-| with multiple | lines|
-
-## html
-
 <table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Milestones</th>
+      <th style="text-align: center">Date</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <td>A simple</td>
-      <td>table</td>
+      <td>Proposal</td>
+      <td>Feb 02 </td>
     </tr>
     <tr>
-      <td>with multiple</td>
-      <td>lines</td>
+      <td>Progress report</td>
+      <td>Mar 03</td>
+    </tr>
+    <tr>
+      <td>Class presentation</td>
+      <td>Apr 07</td>
+    </tr>
+    <tr>
+      <td>Final report</td>
+      <td>Apr 16</td>
     </tr>
   </tbody>
 </table>
