@@ -8,7 +8,7 @@ Rachel Phinnemore, Yufei Kang, Tianyu Wang
 <table>
   <thead>
     <tr>
-      <th style="text-align: center">Date</th>
+      <th style="text-align: center", width=600px>Date</th>
       <th style="text-align: center">Milestone</th>
     </tr>
   </thead>
@@ -23,7 +23,7 @@ Rachel Phinnemore, Yufei Kang, Tianyu Wang
       <td>Create Non-IID dataset and unbalanced Non-IID data </td>
     </tr>
     <tr>
-      <td>Week 2/Week 3: Feb 9th - Feb 23th</td>
+      <td>Week 2-3: Feb 9th - Feb 23th</td>
       <td>Research different client update schemes to implement and implement them </td>
     </tr>
     <tr>
