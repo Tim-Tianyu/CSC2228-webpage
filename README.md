@@ -23,3 +23,7 @@ Rachel, Tianyu, Yufei
 | 6 | EU | European Union
 | 7 | WW | World
 | 8 | LGBT | Pride
+
+## test
+| A simple | table |
+| with multiple | lines|
