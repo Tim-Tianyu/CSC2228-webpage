@@ -6,14 +6,14 @@ Federated Learning (FL) offers the benefits of machine learning without compromi
 
 ## Project goals
 * Baseline Goals
- * Simulate a federated learning setting where local data is unbalanced and Non-IID distributed across remote clients.
- * Improve and implement different client update schemes and evaluate them on the simulated unbalanced and Non-IID settings. 
- * Reimplement the state-of-the-art algorithms and introduce them as the comparison groups.
- * Compare the proposed methods with comparison groups in different scenarios and draw final conclusions.
+  * Simulate a federated learning setting where local data is unbalanced and Non-IID distributed across remote clients.
+  * Improve and implement different client update schemes and evaluate them on the simulated unbalanced and Non-IID settings. 
+  * Reimplement the state-of-the-art algorithms and introduce them as the comparison groups.
+  * Compare the proposed methods with comparison groups in different scenarios and draw final conclusions.
 * Reach Goals
- * Moderate Reach Goal: Investigate ways to improve model performance for unbalanced Non-IID data by fine-tuning client update hyperparameters (e.g., learning rate, momentum, etc.)
- * Advanced Reach Goal: Investigate ways to improve performance of federated learning for unbalanced Non-IID data distribution further by possibly proposing a novel client update optimization method or an advanced server aggregation approach. 
- * Note: Some or all of these goals will be attempted if baseline goals are met.
+  * Moderate Reach Goal: Investigate ways to improve model performance for unbalanced Non-IID data by fine-tuning client update hyperparameters (e.g., learning rate, momentum, etc.)
+  * Advanced Reach Goal: Investigate ways to improve performance of federated learning for unbalanced Non-IID data distribution further by possibly proposing a novel client update optimization method or an advanced server aggregation approach. 
+  * Note: Some or all of these goals will be attempted if baseline goals are met.
 
 ## Timeline
 <table>
